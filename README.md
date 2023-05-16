@@ -77,6 +77,6 @@ Worst case: O(n^2)
 ## Authors
 
 - [Sourabh](https://github.com/bsour)
-- [Eva](https://github.com/contributor1_username)
+- [Eva](https://github.com/EvaMicich)
 
 
